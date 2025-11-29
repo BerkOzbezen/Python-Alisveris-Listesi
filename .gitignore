@@ -1,0 +1,8 @@
+# Derlenmiş Python Dosyaları (Çalışma sırasında otomatik oluşur)
+__pycache__/
+*.pyc
+
+# İşletim Sistemi ve IDE Dosyaları (Kullanıcıya özel ayarlar)
+.DS_Store
+.vscode/
+.idea/
